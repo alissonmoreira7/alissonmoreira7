@@ -5,6 +5,14 @@
 Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente, estou cursando Engenharia de Software na UCSAL. Sou apaixonada por tecnologia desde a infância imaginando como o mundo dos jogos foram criados. Um dos meus principais objetivos é transformar o mundo utilizando dados, aplicando-os em soluções que tragam impacto.
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/alissonlmmoreira">
+        <img 
+            alt="LinkedIN" 
+            title="Veja meu LinkedIN" 
+            width="29"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
     <a href="https://github.com/alissonmoreira7?tab=followers">
         <img 
             alt="Seguidores" 
@@ -31,8 +39,7 @@ Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente,
     title="Python"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img 
@@ -78,19 +85,17 @@ Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente,
 ### 📊 Estatísticas
 
 <p>
-  <img 
+    <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    ![Alisson Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonmoreira7&show_icons=true&theme=radical)
+    src="https://github-readme-stats.vercel.app/api?username=alissonmoreira7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
+    <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmoreira7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
