@@ -31,7 +31,7 @@ Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente,
     title="Python"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    ![Alisson Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonmoreira7&show_icons=true&theme=radical)
 />
 
 <img 
