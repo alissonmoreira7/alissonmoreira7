@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Alisson Moreira
 
-**`Estudante de Engenharia de Software`**
+**`Software Engineer`**
 
-Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente, estou cursando Engenharia de Software na UCSAL. Sou apaixonada por tecnologia desde a infância imaginando como o mundo dos jogos foram criados. Um dos meus principais objetivos é transformar o mundo utilizando dados, aplicando-os em soluções que tragam impacto.
+Engenheiro de Software em formação pela UCSAL e desenvolvedor focado em construir soluções robustas no Back-End. Minha jornada na tecnologia começou com a curiosidade de entender como os mundos virtuais eram criados e hoje transformo essa paixão em arquiteturas de dados eficientes.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/alissonlmmoreira">
@@ -35,6 +35,25 @@ Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente,
 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+
+<img
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="50px" 
@@ -53,20 +72,20 @@ Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente,
 
 <img 
     align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
 <img 
@@ -81,6 +100,9 @@ Me chamo Alisson Lima Moreira, tenho 19 anos e sou natural da Bahia. Atualmente,
 
 <br/>
 <br/>
+
+
+---
 
 ### 📊 Estatísticas
 
