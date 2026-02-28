@@ -106,7 +106,13 @@ Engenheiro de Software em formação pela UCSAL e desenvolvedor focado em constr
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=alissonmoreira7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmoreira7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=alissonmoreira7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmoreira7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
