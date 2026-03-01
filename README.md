@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <h3>Top Language</h3>
+  <h3>Tech Stack & Tools</h3>
 </div>
 
 
