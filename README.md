@@ -59,8 +59,8 @@
   </samp>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:alonmoreira.dev@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/alissonlmmoreira)
+[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:alonmoreira.dev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alissonlmmoreira)
   
 </div>
 
