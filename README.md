@@ -1,123 +1,67 @@
-# 👨🏻‍💻 Alisson Moreira
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=14&section=header"/>
 
-**`Software Engineer`**
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/B1JdENT.png" />
+</div>
 
-Engenheiro de Software em formação pela UCSAL e desenvolvedor focado em construir soluções robustas no Back-End. Minha jornada na tecnologia começou com a curiosidade de entender como os mundos virtuais eram criados e hoje transformo essa paixão em arquiteturas de dados eficientes.
+<br>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/alissonlmmoreira">
-        <img 
-            alt="LinkedIN" 
-            title="Veja meu LinkedIN" 
-            width="29"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
-    <a href="https://github.com/alissonmoreira7?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/alissonmoreira7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/alissonmoreira7?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+<div align="center">
+  <samp>
+      <br>
+      Hi there! I'm <b>Alisson Moreira</b>
+  </samp>
+</div>
 
----
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering;I'm+also+a+student+of+Data+Engineering;Be+welcome!" alt="Typing SVG"/>
+</div>
+<br>
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-
-<img
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
+<div align="center">
+  <h3>Top Language</h3>
+</div>
 
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+<div align="center" style="display: inline_block"><br>
 
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
-/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  
+</div>
+<br>
+<div align="center" style="display: inline_block"><br>
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
+##
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alissonmoreira7&theme=discord_old_blurple)
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alissonmoreira7&theme=discord_old_blurple) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alissonmoreira7&theme=discord_old_blurple&utcOffset=8)
+</div>
+  
+<br>
 
+##
 
-<br/>
-<br/>
+<br>
 
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
 
----
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:alonmoreira.dev@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/alissonlmmoreira)
+  
+</div>
 
-### 📊 Estatísticas
-
-<p>
-    <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alissonmoreira7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonmoreira7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=14&section=footer"/>
