@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=14&section=header"/>
 
-<div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/B1JdENT.png" />
-</div>
-
 <br>
 
 <div align="center">
