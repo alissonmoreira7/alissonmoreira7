@@ -1,13 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=14&section=header"/>
-
-<br>
-
 <div align="center">
-  <samp>
+  <h3>
       <br>
       Hi there! I'm <b>Alisson Moreira</b>
   </samp>
-</div>
+</h3>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering;I'm+also+a+student+of+Data+Engineering;Be+welcome!" alt="Typing SVG"/>
